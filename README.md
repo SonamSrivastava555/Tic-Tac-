@@ -4,6 +4,11 @@ Demo
 
 You can play the game online:
 🔹 Live Demo: 
+<a href="https://sonamsrivastava555.github.io/Calculator/" 
+   target="_blank" 
+   style="display:inline-block; background-color:#4CAF50; color:white; padding:6px 15px; text-decoration:none; border-radius:5px;">
+  Click Here
+</a>
 
 
 Features-
